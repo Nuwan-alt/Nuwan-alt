@@ -12,7 +12,7 @@
 ## 🚀 Languages and Tools:
 <br/>
 <p align="center"> 
-     <img src="https://icons8.com/icon/90519/spring-boot"/>
+<!--      <img src="https://icons8.com/icon/90519/spring-boot"/> -->
      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  
      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  
