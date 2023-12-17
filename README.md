@@ -1,7 +1,7 @@
 <a href=""><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nuwan Jayasanka</h1>
-<h3 align="center">I'm a 3rd year undergraduate from University of Moratuwa-Sri Lanka.</h3>
+<h3 align="center">I'm a final year undergraduate from University of Moratuwa-Sri Lanka.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -12,6 +12,7 @@
 ## 🚀 Languages and Tools:
 <br/>
 <p align="center"> 
+     <img src="https://spring.io/img/spring.svg"/>
      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  
      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  
